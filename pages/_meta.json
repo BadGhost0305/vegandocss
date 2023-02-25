@@ -4,6 +4,7 @@
   "aboutveganism": "About Veganism",
   "enviroment": "Enviromental impact",
   "healthbenefits": "Health Benefits",
+  "ethicalreasons": "Ethical reasons to choose veganism",
   "about": {
     "title": "About",
     "type": "page"
@@ -11,7 +12,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/",
+    "href": "https://twitter.com/Veganabhinav",
     "newWindow": true
   }
 }
